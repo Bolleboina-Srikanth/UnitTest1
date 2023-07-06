@@ -1,0 +1,8 @@
+C:\Users\Ranjith\source\repos\Myproject\Collections\bin\Debug\Collections.exe.config
+C:\Users\Ranjith\source\repos\Myproject\Collections\bin\Debug\Collections.exe
+C:\Users\Ranjith\source\repos\Myproject\Collections\bin\Debug\Collections.pdb
+C:\Users\Ranjith\source\repos\Myproject\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Ranjith\source\repos\Myproject\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ranjith\source\repos\Myproject\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith\source\repos\Myproject\Collections\obj\Debug\Collections.exe
+C:\Users\Ranjith\source\repos\Myproject\Collections\obj\Debug\Collections.pdb
